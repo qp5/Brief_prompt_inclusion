@@ -1,5 +1,5 @@
 # Brief prompt GPT Setting
-Here below is basic Prompt inclusion to ChatGPT & LLMs. <br>
+A basic ChatGPT / LLM Prompt to avoid overloading and trash posting.<br>
 
 To install prompt<br>
  1 Select your name (top right corner) <br>
